@@ -13,7 +13,7 @@ Examples:
 - click me
 - show/hide - add the code below to toggle:
 
-```
+```javascript
 //make the show button a Toggle
 <button id="show-btn">Toggle menu</button>
 
