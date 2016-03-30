@@ -15,7 +15,7 @@ Examples:
 - click me
 - show/hide - add the code below to toggle:
 
-```
+```javascript
 //make the show button a Toggle
 <button id="show-btn">Toggle menu</button>
 
@@ -30,7 +30,8 @@ function handleMenu() {
 - keyup with binding
 - To do list appendTo() and prependTo()
 - add to todo list to make done items green:
-```
+
+```javascript
 .css('background-color', 'green');
 ```
 - you can also add a class: `.addClass('large');`
