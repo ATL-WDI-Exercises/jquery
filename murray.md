@@ -28,7 +28,8 @@ function handleMenu() {
 - keyup with binding
 - To do list appendTo() and prependTo()
 - add to todo list to make done items green:
-```
+
+```javascript
 .css('background-color', 'green');
 ```
 - you can also add a class: `.addClass('large');`
